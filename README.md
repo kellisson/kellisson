@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kellisson
-- 👀 I’m interested in music, games (and game dev), drawing and improve myself as a sofware developer. 
-- 🌱 I’m currently learning software testing, refactoring and architecture.
-- 📫 Hit me up on kellisson@outlook.com :)
+- 👋 Hi, I'm Kellisson Felipe, Java software developer for a living, brazilian breathing machine on the rest of the day.
+- 👀 I’m interested in music, books, games (and game dev), drawing and improve myself as a sofware developer. 
+- 🌱 I’m currently learning software testing, refactoring and architecture. Outside of computing I like to read and learn about guitars and synthesizers, music production, drawing and politics.
+- 📫 Hit me up on https://bit.ly/3Ayqlut :)
 
 <!---
 kellisson/kellisson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
